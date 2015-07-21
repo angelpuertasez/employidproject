@@ -1,0 +1,16 @@
+##################################################
+#EMPLOYID TOOL AND TECHNICAL COMPONENTS INVENTORY#
+##################################################
+
+Please use this template to add a new tool or technical component.
+
+##################################################
+#Name: <<Tool or technical component name>
+#Description: <<Brief description>>
+#Subfolder: /employidproject/<<subfolder>>
+#Workpackage (optional): <<Workpackage contributor>>
+##################################################
+
+--------------------------------------------------
+
+
